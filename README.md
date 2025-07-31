@@ -1,0 +1,2 @@
+# SharkGames-texts
+SharkGamesのプライバシーポリシーなど
